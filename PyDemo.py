@@ -5,3 +5,5 @@ def Ptrn():
     print()
  
 Ptrn()
+print()
+Ptrn()
